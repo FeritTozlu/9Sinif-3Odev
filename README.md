@@ -37,7 +37,7 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 
 a) Denkleminizi **x= 2,58E + 1,82x +- 1,24x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? Sabit değildir.
 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
 
